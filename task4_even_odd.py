@@ -3,3 +3,11 @@
 # Пример:
 # Ввод: 8
 # Вывод: Число 8 четное
+print("Write an integer")
+i=float(input())
+if i%2==0:
+    print(i, "is even");
+elif i%1==0:
+    print(i, "is odd");
+else:
+    print(i, "is not an integer")

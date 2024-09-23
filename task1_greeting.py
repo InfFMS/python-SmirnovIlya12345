@@ -3,3 +3,6 @@
 # Пример:
 # Ввод: Кирилл
 # Вывод: Привет, Кирилл!
+print("Write your name")
+a=input()
+print("Hello", a)

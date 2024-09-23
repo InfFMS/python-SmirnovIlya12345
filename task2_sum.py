@@ -3,3 +3,8 @@
 # Пример:
 # Ввод: 3, 5
 # Вывод: Сумма: 8
+print("Write 2 numbers to get the summ of them")
+b=float(input())
+c=float(input())
+d=b+c
+print(d)

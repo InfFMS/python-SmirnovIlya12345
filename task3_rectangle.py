@@ -3,3 +3,10 @@
 # Пример:
 # Ввод: 4, 7
 # Вывод: Периметр: 22, Площадь: 28
+print("Write 2 sides of the rectangle")
+e=float(input())
+f=float(input())
+g=2*(e+f)
+h=e*f
+print("The perimeter is", g)
+print("The area is", h)

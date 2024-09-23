@@ -3,3 +3,10 @@
 # Пример:
 # Ввод: 9, 4
 # Вывод: Целое деление: 2, Остаток: 1
+print("Write 2 numbers")
+a=float(input())
+b=float(input())
+c=a//b
+d=a%b
+print(c)
+print(d)

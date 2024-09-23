@@ -3,3 +3,8 @@
 # Пример:
 # Ввод: Первое число: 10, Второе число: 2, Операция: *
 # Вывод: Результат: 20
+print("Write 2 numbers")
+a=float(input())
+b=float(input())
+c=a*b
+print(c)

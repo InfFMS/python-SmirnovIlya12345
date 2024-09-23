@@ -3,3 +3,7 @@
 # Пример:
 # Ввод: 123
 # Вывод: 321
+print("Write a 3-digit integer")
+j=float(input())
+k=j%10*100+(j%100-(j%10))+j//100
+print(k)

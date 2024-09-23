@@ -3,3 +3,9 @@
 # Пример:
 # Ввод: Первое число: 2, Шаг: 3, n: 4
 # Вывод: Результат: 11
+print("Write the 1st number, the step and the place of the number")
+l=float(input())
+m=float(input())
+n=float(input())
+p=l+m*(n-1)
+print(p)
